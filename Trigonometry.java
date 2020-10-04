@@ -24,22 +24,22 @@ public class Trigonometry
 	void sec(int a)
 	{
 		double val=Math.cos(a);
-		double secval= 1/val;
-		System.out.println("sec("+a+") = "+secval);
+		double val= 1/val;
+		System.out.println("sec("+a+") = "+val);
 	}
 
 	void cosec(int a)
 	{
 		double val=Math.sin(a);
-		double cosecval= 1/val;
-		System.out.println("cosec("+a+") = "+cosecval);
+		double val= 1/val;
+		System.out.println("cosec("+a+") = "+val);
 	}
 
 	void cot(int a)
 	{ 
 		double val=Math.tan(a);
-		double cotval= 1/val;
-		System.out.println("cot("+a+") = "+cotval);
+		double val= 1/val;
+		System.out.println("cot("+a+") = "+val);
 	}
 }
 	
