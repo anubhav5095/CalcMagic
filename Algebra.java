@@ -1,3 +1,6 @@
+/**
+*Algebra Class for the project
+*/
 import java.util.*;
 public class Algebra
 {
