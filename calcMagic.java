@@ -1,3 +1,6 @@
+/**
+*Driver class for the project.
+*/
 import java.util.*;
 public class calcMagic
 {
