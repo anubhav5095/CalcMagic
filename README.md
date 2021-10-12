@@ -25,7 +25,7 @@ A Java Project which offers **menu driven** program for 5 different subject and 
 
 ## Execution ##
 
-> The Driver program is **calcMagic.java**, You can run the project using the same.
+> The Driver program is **calcMagic.java**, You can run the project using the command : javac calcMagic.java  --> java calcMagic.
 
 
 ## Contribute ##
